@@ -1,3 +1,5 @@
+GitHub Repository: https://github.com/omarelmi0010/humber-student-voting
+
 # Humber Student Voting Website – Project Plan
 
 ## 1. Project Concept and Purpose
