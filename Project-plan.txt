@@ -2,6 +2,8 @@ GitHub Repository: https://github.com/omarelmi0010/humber-student-voting
 
 # Humber Student Voting Website – Project Plan
 
+Student: OMAR OSMAN ELMI
+
 ## 1. Project Concept and Purpose
 - Who it's for: Humber students, similar to IGNITE elections, where students vote for their student union representatives.
 - Problem it solves: Solves low student participation in elections (like what happened with IGNITE) by making voting more convenient and accessible online, with clear candidate/topic info.
@@ -23,7 +25,10 @@ GitHub Repository: https://github.com/omarelmi0010/humber-student-voting
 - Deployment: GitHub Pages
 
 ## 3. Project Roles
-Solo project — all roles handled by one member:
+Note: I was unable to get in touch with the rest of my team, so I completed this
+ project plan individually. I (Omar Osman Elmi) handled all roles (Frontend
+  Developer, JavaScript Developer, Team Lead, Design Specialist) on my own.
+
 - Frontend Developer: HTML/CSS structure and styling
 - JavaScript Developer: Voting logic and Chart.js integration
 - Team Lead: GitHub repo, Issues, Project Board
@@ -48,7 +53,7 @@ Feature: Candidate Profile Section
 ## 5. Project Workflow and GitHub Setup
 - GitHub repository created for the project
 - Branch naming: feature/voting-form, feature/results-chart, bugfix/<description>
-- Main branch protected — pull requests required before merging
+- Main branch protected; pull requests required before merging
 - GitHub Issues created for each feature/task
 - Project Board columns: To Do, In Progress, Done
 
