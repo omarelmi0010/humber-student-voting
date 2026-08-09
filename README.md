@@ -1,26 +1,24 @@
 # Humber Student Voting
 
-A web application that lets Humber students vote for their student union representatives, inspired by the IGNITE elections. Built to make voting more convenient, accessible, and transparent.
+This is a web application that lets Humber students vote for their student union representatives. It is inspired by the IGNITE elections. The goal is to make voting more convenient, accessible, and clear for students.
 
 ## Feature Demo
 
 ![Feature Demo](assets/demo.gif)
 
-The demo above shows:
-- The homepage with navigation and "Vote Now" button
-- Casting a vote for a candidate on the voting page
-- Viewing the candidate profiles page
+The demo above shows the homepage with the navigation and "Vote Now" button, casting a vote for a candidate on the voting page, and viewing the candidate profiles page.
 
 ## Features Implemented (Phase 2)
 
-- **Homepage** — welcome message, navigation menu, "Vote Now" button
-- **Voting Form** — displays a list of candidates, allows voting, shows a confirmation message, and tracks vote counts using JavaScript
-- **Candidate Profile Section** — displays each candidate's name, photo, and bio
+**Homepage:** Has a welcome message, a navigation menu, and a "Vote Now" button.
+
+**Voting Form:** Shows a list of candidates, lets the user vote, shows a confirmation message, and counts votes using JavaScript.
+
+**Candidate Profile Section:** Shows each candidate's name, photo, and short bio.
 
 ## Technologies
 
-- HTML, CSS, JavaScript
-- GitHub Pages for deployment
+This project uses HTML, CSS, and JavaScript. It is deployed using GitHub Pages.
 
 ## Live Site
 
@@ -28,4 +26,4 @@ https://omarelmi0010.github.io/humber-student-voting/
 
 ## Project Status
 
-This project is being developed individually, as noted in the project plan, due to being unable to reach other team members. Current focus is on live results display (Chart.js integration) for the next phase.
+This project is being developed individually. As noted in the project plan, I was not able to reach my other team members. My current focus for the next phase is the live results display, using Chart.js.
