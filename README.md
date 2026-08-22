@@ -16,6 +16,8 @@ The demo above shows the homepage with the navigation and "Vote Now" button, cas
 
 **Candidate Profile Section:** Shows each candidate's name, photo, and short bio.
 
+**Live Results Display:** Reads vote data from localStorage and shows live, interactive results as a bar chart using Chart.js. Displays a "No votes yet." message if no votes have been cast.
+
 ## Technologies
 
 This project uses HTML, CSS, and JavaScript. It is deployed using GitHub Pages.
@@ -24,6 +26,7 @@ This project uses HTML, CSS, and JavaScript. It is deployed using GitHub Pages.
 
 https://omarelmi0010.github.io/humber-student-voting/
 
-## Project Status
 
-This project is being developed individually. As noted in the project plan, I was not able to reach my other team members. My current focus for the next phase is the live results display, using Chart.js.
+## Project Status 
+
+This project is being developed individually. As noted in the project plan, I was not able to reach my other team members, so I have completed all roles myself (frontend, JavaScript logic, GitHub management, and design). All core features from the project plan — homepage, voting form, candidate profiles, and live results display — have been implemented and merged into main. Current focus is finalizing documentation and preparing the final presentation video.
