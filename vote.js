@@ -32,6 +32,7 @@ candidateListDiv.addEventListener('click', (event) => {
 
         if (candidate) {
             candidate.votes++;
+            localStorage.setItem('candidates', JSON.stringify(candidates));
             voteMessageDiv.innerHTML = `<p>Thank you for voting for ${candidate.name}!</p>`;
         }
     }
