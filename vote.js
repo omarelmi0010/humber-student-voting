@@ -31,17 +31,10 @@ candidateListDiv.addEventListener('click', (event) => {
         const candidate = candidates.find(c => c.id === candidateId);
 
         if (candidate) {
-<<<<<<< HEAD
-    candidate.votes++;
-    localStorage.setItem('candidates', JSON.stringify(candidates));
-    voteMessageDiv.innerHTML = `<p>Thank you for voting for ${candidate.name}!</p>`;
-        }
-
-=======
             candidate.votes++;
+            localStorage.setItem('candidates', JSON.stringify(candidates));
             voteMessageDiv.innerHTML = `<p>Thank you for voting for ${candidate.name}!</p>`;
         }
->>>>>>> main
     }
 });
 
